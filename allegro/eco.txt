@@ -1,0 +1,190 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/DA CONVERTOR/allegro/OSCILLATOR.brd                   |
+|                                                    Thu Aug 01 10:21:42 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +VCC         pins ADDED TO this new net
+                                 C5.1           U1.7           U2.7           
+                                 U3.3           U5.7           U6.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -VCC         pins ADDED TO this new net
+                                 C6.2           U1.4           U2.4           
+                                 U4.3           U5.4           U6.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.2           C3.2           C4.1           
+                                 C5.2           C6.1           J1.2           
+                                 J2.2           R1.2           R6.1           
+                                 R11.1          U3.2           U4.1           
+                                 U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00233       pins ADDED TO this new net
+                                 C1.1           R3.1           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00258       pins ADDED TO this new net
+                                 R1.1           R4.3           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00276       pins ADDED TO this new net
+                                 R2.1           R3.2           R4.1           
+                                 R4.2           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00401       pins ADDED TO this new net
+                                 C2.1           R2.2           R5.1           
+                                 U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00560       pins ADDED TO this new net
+                                 R6.2           U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00834       pins ADDED TO this new net
+                                 C4.2           J1.3           U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02155       pins ADDED TO this new net
+                                 R7.2           R8.2           R9.1           
+                                 U6.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02167       pins ADDED TO this new net
+                                 R7.1           R10.2          U5.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02180       pins ADDED TO this new net
+                                 R10.1          R11.2          U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/DA CONVERTOR/allegro/OSCILLATOR.brd                   |
+|                                                    Thu Aug 01 10:21:42 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N02221       pins ADDED TO this new net
+                                 J2.1           R9.2           U6.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT          pins ADDED TO this new net
+                                 C3.1           J1.1           U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SIG          pins ADDED TO this new net
+                                 C2.2           R5.2           R8.1           
+                                 U2.6           U5.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/DA CONVERTOR/allegro/OSCILLATOR.brd                   |
+|                                                    Thu Aug 01 10:21:42 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_CAP196_0.001UF
+ CAP NP_CAP196_0.1UF
+ CAP NP_CAP196_270PF
+ CON2_JUMPER2_CON2
+ CON3_JUMPER3_CON3
+ LF351_DIP8_3_LF351
+ LM7812C_1_TO220AB_LM7812C
+ LM7912C_3_TO220AB_LM7912C
+ POT_RESADJ_1M
+ R_RES400_100K
+ R_RES400_10K
+ R_RES400_62K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/DA CONVERTOR/allegro/OSCILLATOR.brd                   |
+|                                                    Thu Aug 01 10:21:42 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP196_270PF   
+ C2                  CAP NP_CAP196_0.001UF 
+ C3                  CAP NP_CAP196_0.1UF   
+ C4                  CAP NP_CAP196_0.1UF   
+ C5                  CAP NP_CAP196_0.1UF   
+ C6                  CAP NP_CAP196_0.1UF   
+ J1                  CON3_JUMPER3_CON3     
+ J2                  CON2_JUMPER2_CON2     
+ R1                  R_RES400_10K          
+ R2                  R_RES400_62K          
+ R3                  R_RES400_10K          
+ R4                  POT_RESADJ_1M         
+ R5                  R_RES400_100K         
+ R6                  R_RES400_10K          
+ R7                  R_RES400_10K          
+ R8                  R_RES400_10K          
+ R9                  R_RES400_10K          
+ R10                 R_RES400_10K          
+ R11                 R_RES400_10K          
+ U1                  LF351_DIP8_3_LF351    
+ U2                  LF351_DIP8_3_LF351    
+ U3                  LM7812C_1_TO220AB_LM7812C 
+ U4                  LM7912C_3_TO220AB_LM7912C 
+ U5                  LF351_DIP8_3_LF351    
+ U6                  LF351_DIP8_3_LF351    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/DA CONVERTOR/allegro/OSCILLATOR.brd                   |
+|                                                    Thu Aug 01 10:21:42 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ J1.3                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+ U2.4                           PRIM_FILE      .\pstchip.dat
+ U3.3                           PRIM_FILE      .\pstchip.dat
+ U4.3                           PRIM_FILE      .\pstchip.dat
+ U5.4                           PRIM_FILE      .\pstchip.dat
+ U6.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/DA CONVERTOR/allegro/OSCILLATOR.brd                   |
+|                                                    Thu Aug 01 10:21:42 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      66                                        |
+|       Comp definitions added:      12                                        |
+|       Components added      :      25                                        |
+|       Slot property added   :      25                                        |
+|                                                                              |
+|   Total ECO changes reported:     128                                        |
+|------------------------------------------------------------------------------|

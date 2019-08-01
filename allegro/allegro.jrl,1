@@ -1,0 +1,883 @@
+\t (00:00:56) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:56)     Journal start - Thu Aug 01 11:10:50 2019
+\t (00:00:56)         Host=USER-PC User=user Pid=8756 CPUs=4
+\t (00:00:56) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:56) 
+   (00:00:56) Loading axlcore.cxt 
+\t (00:01:03) Opening existing design...
+\d (00:01:03) Design opened: C:/USERS/USER/DESKTOP/DA CONVERTOR/allegro/OSCILLATOR.brd
+\i (00:01:04) trapsize 715
+\i (00:01:04) trapsize 732
+\i (00:01:04) trapsize 732
+\i (00:01:04) trapsize 715
+\i (00:01:04) trapsize 2162
+\i (00:01:04) generaledit 
+\i (00:02:59) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkT"
+\i (00:02:59) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkT"
+\i (00:03:00) roam start
+\i (00:03:00) roam x -96
+\i (00:03:00) roam x -64
+\i (00:03:00) roam x -112
+\i (00:03:00) roam y -32
+\i (00:03:00) roam x -80
+\i (00:03:00) roam y -16
+\i (00:03:00) roam x -48
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 72.415 -8.528
+\i (00:03:01) trapsize 358
+\i (00:03:01) roam end
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 80.566 -3.308
+\i (00:03:02) trapsize 715
+\i (00:04:04) zoom in 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom in 78.564 13.710
+\i (00:04:04) trapsize 358
+\i (00:04:05) drag_start grid 79.994 14.425
+\i (00:04:05) move 
+\t (00:04:06) last pick:  81.102 15.367
+\t (00:04:06) Pick new location for the element(s).
+\i (00:04:06) iangle -90 
+\t (00:04:06) last pick:  270.000 0.000
+\i (00:04:06) iangle -90 
+\t (00:04:06) last pick:  270.000 0.000
+\i (00:04:10) drag_stop grid 86.001 18.572
+\i (00:04:10) generaledit 
+\i (00:04:11) drag_start grid 70.413 17.571
+\i (00:04:11) move 
+\t (00:04:12) last pick:  70.028 17.653
+\t (00:04:12) Pick new location for the element(s).
+\i (00:04:15) drag_stop grid 70.699 18.572
+\i (00:04:15) generaledit 
+\i (00:04:16) drag_start grid 93.080 33.803
+\i (00:04:16) move 
+\t (00:04:16) last pick:  93.603 34.289
+\t (00:04:16) Pick new location for the element(s).
+\i (00:04:17) iangle -90 
+\t (00:04:17) last pick:  270.000 0.000
+\i (00:04:18) drag_stop grid 97.227 37.235
+\i (00:04:18) generaledit 
+\i (00:04:18) drag_start grid 91.721 37.449
+\i (00:04:18) move 
+\t (00:04:19) last pick:  91.758 36.452
+\t (00:04:19) Pick new location for the element(s).
+\i (00:04:20) drag_stop grid 90.005 36.520
+\i (00:04:20) generaledit 
+\i (00:04:21) drag_start grid 77.706 36.234
+\i (00:04:21) move 
+\t (00:04:21) last pick:  77.183 36.023
+\t (00:04:21) Pick new location for the element(s).
+\i (00:04:23) drag_stop grid 77.706 36.377
+\i (00:04:23) generaledit 
+\i (00:04:24) drag_start grid 71.771 37.092
+\i (00:04:24) move 
+\t (00:04:24) last pick:  70.558 36.552
+\t (00:04:24) Pick new location for the element(s).
+\i (00:04:26) drag_stop grid 68.697 36.520
+\i (00:04:26) generaledit 
+\i (00:04:27) drag_start grid 47.603 26.438
+\i (00:04:27) move 
+\t (00:04:27) last pick:  47.720 26.056
+\t (00:04:27) Pick new location for the element(s).
+\i (00:04:28) drag_stop grid 57.042 24.436
+\i (00:04:29) generaledit 
+\i (00:04:29) drag_start grid 47.174 16.570
+\i (00:04:29) move 
+\t (00:04:29) last pick:  47.620 15.356
+\t (00:04:29) Pick new location for the element(s).
+\i (00:04:30) drag_stop grid 56.541 14.211
+\i (00:04:31) generaledit 
+\i (00:04:31) roam start
+\i (00:04:31) roam x -64
+\i (00:04:31) roam x -32
+\i (00:04:32) roam x -48
+\i (00:04:32) roam y 16
+\i (00:04:32) roam x -16
+\i (00:04:32) roam x -80
+\i (00:04:32) roam y 16
+\i (00:04:32) roam end
+\i (00:04:33) drag_start grid 29.656 18.501
+\i (00:04:33) move 
+\t (00:04:33) last pick:  26.504 18.045
+\t (00:04:33) Pick new location for the element(s).
+\i (00:04:35) drag_stop grid 38.021 23.435
+\i (00:04:35) generaledit 
+\i (00:04:36) drag_start grid 30.228 9.778
+\i (00:04:36) move 
+\t (00:04:36) last pick:  26.704 9.145
+\t (00:04:36) Pick new location for the element(s).
+\i (00:04:39) drag_stop grid 38.021 14.568
+\i (00:04:39) generaledit 
+\i (00:04:40) roam start
+\i (00:04:40) roam x -80
+\i (00:04:40) roam x -16
+\i (00:04:40) roam x -16
+\i (00:04:40) roam y -32
+\i (00:04:40) roam end
+\i (00:04:42) drag_start grid 3.771 16.213
+\i (00:04:42) move 
+\t (00:04:42) last pick:  4.445 15.621
+\t (00:04:42) Pick new location for the element(s).
+\i (00:04:43) drag_stop grid 13.066 14.926
+\i (00:04:44) generaledit 
+\i (00:04:44) drag_start grid 5.558 27.081
+\i (00:04:44) move 
+\t (00:04:45) last pick:  5.080 26.416
+\t (00:04:45) Pick new location for the element(s).
+\i (00:04:47) drag_stop grid 13.781 25.365
+\i (00:04:47) generaledit 
+\i (00:05:04) zoom in 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom in 41.167 22.148
+\i (00:05:04) trapsize 179
+\i (00:05:04) zoom out 1 
+\i (00:05:04) setwindow pcb
+\i (00:05:04) zoom out 40.131 23.292
+\i (00:05:04) trapsize 358
+\i (00:05:05) zoom out 1 
+\i (00:05:05) setwindow pcb
+\i (00:05:05) zoom out 39.487 26.296
+\i (00:05:05) trapsize 715
+\i (00:05:06) roam start
+\i (00:05:06) roam y -48
+\i (00:05:06) roam y -64
+\i (00:05:06) roam y -32
+\i (00:05:07) roam end
+\i (00:05:07) zoom in 1 
+\i (00:05:07) setwindow pcb
+\i (00:05:07) zoom in 13.173 36.662
+\i (00:05:07) trapsize 358
+\i (00:05:08) drag_start grid 6.881 40.452
+\i (00:05:08) move 
+\t (00:05:09) last pick:  6.499 40.508
+\t (00:05:09) Pick new location for the element(s).
+\i (00:05:09) iangle -90 
+\t (00:05:09) last pick:  270.000 0.000
+\i (00:05:10) iangle -90 
+\t (00:05:10) last pick:  270.000 0.000
+\i (00:05:11) iangle -90 
+\t (00:05:11) last pick:  270.000 0.000
+\i (00:05:12) drag_stop grid 6.952 39.665
+\i (00:05:12) generaledit 
+\i (00:05:13) drag_start grid 11.671 41.381
+\i (00:05:13) move 
+\t (00:05:13) last pick:  12.044 40.520
+\t (00:05:13) Pick new location for the element(s).
+\i (00:05:14) iangle -90 
+\t (00:05:14) last pick:  270.000 0.000
+\i (00:05:15) drag_stop grid 17.678 47.244
+\i (00:05:15) generaledit 
+\i (00:05:16) drag_start grid 16.319 39.665
+\i (00:05:16) move 
+\t (00:05:17) last pick:  16.477 39.383
+\t (00:05:17) Pick new location for the element(s).
+\i (00:05:17) iangle -90 
+\t (00:05:17) last pick:  270.000 0.000
+\i (00:05:18) drag_stop grid 21.968 38.306
+\i (00:05:18) generaledit 
+\i (00:05:20) drag_start grid 28.117 54.323
+\i (00:05:20) move 
+\t (00:05:20) last pick:  27.623 55.117
+\t (00:05:20) Pick new location for the element(s).
+\i (00:05:20) iangle -90 
+\t (00:05:20) last pick:  270.000 0.000
+\i (00:05:21) iangle -90 
+\t (00:05:21) last pick:  270.000 0.000
+\i (00:05:21) iangle -90 
+\t (00:05:21) last pick:  270.000 0.000
+\i (00:05:22) drag_stop grid 31.335 57.612
+\i (00:05:22) generaledit 
+\i (00:05:23) drag_start grid 33.694 50.176
+\i (00:05:23) move 
+\t (00:05:23) last pick:  32.918 49.352
+\t (00:05:23) Pick new location for the element(s).
+\i (00:05:25) drag_stop grid 30.763 48.603
+\i (00:05:25) generaledit 
+\i (00:05:33) drag_start grid 41.345 39.880
+\i (00:05:33) move 
+\t (00:05:34) last pick:  40.310 39.548
+\t (00:05:34) Pick new location for the element(s).
+\i (00:05:34) iangle -90 
+\t (00:05:34) last pick:  270.000 0.000
+\i (00:05:34) iangle -90 
+\t (00:05:34) last pick:  270.000 0.000
+\i (00:05:35) iangle -90 
+\t (00:05:35) last pick:  270.000 0.000
+\i (00:05:36) drag_stop grid 41.631 39.451
+\i (00:05:36) generaledit 
+\i (00:05:37) drag_start grid 55.574 49.461
+\i (00:05:37) move 
+\t (00:05:37) last pick:  56.058 48.852
+\t (00:05:37) Pick new location for the element(s).
+\i (00:05:39) drag_stop grid 54.430 49.604
+\i (00:05:39) generaledit 
+\i (00:05:40) drag_start grid 52.285 54.323
+\i (00:05:40) move 
+\t (00:05:40) last pick:  51.823 54.917
+\t (00:05:40) Pick new location for the element(s).
+\i (00:05:40) iangle -90 
+\t (00:05:40) last pick:  270.000 0.000
+\i (00:05:40) iangle -90 
+\t (00:05:40) last pick:  270.000 0.000
+\i (00:05:41) iangle -90 
+\t (00:05:41) last pick:  270.000 0.000
+\i (00:05:42) drag_stop grid 55.431 57.612
+\i (00:05:43) generaledit 
+\i (00:05:45) roam start
+\i (00:05:45) roam x 16
+\i (00:05:45) roam x 32
+\i (00:05:45) roam x 16
+\i (00:05:45) roam x 64
+\i (00:05:45) roam x 96
+\i (00:05:45) roam y -16
+\i (00:05:45) roam x 16
+\i (00:05:45) roam end
+\i (00:05:46) drag_start grid 87.143 47.674
+\i (00:05:47) move 
+\t (00:05:47) last pick:  87.452 48.387
+\t (00:05:47) Pick new location for the element(s).
+\i (00:05:47) iangle -90 
+\t (00:05:47) last pick:  270.000 0.000
+\i (00:05:47) iangle -90 
+\t (00:05:47) last pick:  270.000 0.000
+\i (00:05:48) drag_stop grid 92.077 51.392
+\i (00:05:48) generaledit 
+\i (00:05:49) drag_start grid 80.708 47.745
+\i (00:05:49) move 
+\t (00:05:49) last pick:  81.102 48.387
+\t (00:05:49) Pick new location for the element(s).
+\i (00:05:50) iangle -90 
+\t (00:05:50) last pick:  270.000 0.000
+\i (00:05:50) iangle -90 
+\t (00:05:50) last pick:  270.000 0.000
+\i (00:05:51) drag_stop grid 85.641 51.320
+\i (00:05:51) generaledit 
+\i (00:05:53) drag_start grid 72.127 57.756
+\i (00:05:53) move 
+\t (00:05:53) last pick:  71.220 57.456
+\t (00:05:54) Pick new location for the element(s).
+\i (00:05:55) drag_stop grid 80.350 56.683
+\i (00:05:55) generaledit 
+\i (00:06:12) zoom out 1 
+\i (00:06:12) setwindow pcb
+\i (00:06:12) zoom out 85.284 34.589
+\i (00:06:12) trapsize 715
+\i (00:06:13) zoom out 1 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) zoom out 123.467 34.302
+\i (00:06:13) trapsize 1402
+\i (00:06:14) zoom in 1 
+\i (00:06:14) setwindow pcb
+\i (00:06:14) zoom in 18.972 47.009
+\i (00:06:14) trapsize 701
+\i (00:06:14) prepopup 139.532 47.290
+\i (00:06:15) pick grid 141.775 54.580
+\t (00:06:15) last pick:  141.800 54.600
+\i (00:06:16) save 
+\i (00:06:17) fillin yes 
+\i (00:06:18) generaledit 
+\i (00:06:41) pick grid 130.560 71.122
+\t (00:06:41) last pick:  130.600 71.100
+\i (00:06:47) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkT"
+\i (00:06:52) color192 
+\i (00:06:52) generaledit 
+\i (00:06:54) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:06:56) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:07:00) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:07:02) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:07:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:07:03) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:07:11) zoom out 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom out 44.346 23.318
+\i (00:07:11) trapsize 1402
+\i (00:07:11) zoom out 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom out 69.720 -0.374
+\i (00:07:11) trapsize 1402
+\i (00:07:11) zoom in 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom in 4.953 2.991
+\i (00:07:11) trapsize 701
+\i (00:07:11) zoom in 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom in 4.813 3.272
+\i (00:07:11) trapsize 350
+\i (00:07:12) zoom out 1 
+\i (00:07:12) setwindow pcb
+\i (00:07:12) zoom out 12.804 11.403
+\i (00:07:12) trapsize 701
+\i (00:07:17) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkT"
+\i (00:07:20) zoom out 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom out 63.131 32.150
+\i (00:07:20) trapsize 1402
+\i (00:07:20) zoom in 1 
+\i (00:07:20) setwindow pcb
+\i (00:07:20) zoom in 63.271 79.533
+\i (00:07:20) trapsize 701
+\i (00:07:21) zoom out 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom out 41.823 71.963
+\i (00:07:21) trapsize 1402
+\i (00:07:21) zoom in 1 
+\i (00:07:21) setwindow pcb
+\i (00:07:21) zoom in -9.907 54.579
+\i (00:07:21) trapsize 701
+\i (00:07:30) color192 
+\i (00:07:30) generaledit 
+\i (00:07:32) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:07:35) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:07:38) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:07:47) setwindow form.mini
+\i (00:07:47) FORM mini subcolor 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) artwork 
+\i (00:08:08) setwindow form.film_control
+\i (00:08:08) FORM film_control filmtree 'MULTISEL YES' SilkT 
+\i (00:08:08) FORM film_control filmtree  SilkT 
+\i (00:08:10) FORM film_control database_check YES 
+\i (00:08:11) FORM film_control database_check NO 
+\i (00:08:11) FORM film_control select_all  
+\i (00:08:11) FORM film_control database_check YES 
+\i (00:08:12) FORM film_control create  
+\i (00:08:14) fillin yes 
+\t (00:08:14) Checking db records
+\t (00:08:14)     checking for orphans...
+\t (00:08:14)     Checked 100 percent
+\t (00:08:14) Done dbdoctor.
+\t (00:08:14) Starting Create artwork films...
+\w (00:08:14) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (00:08:15) Artwork generated with warnings.
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom out 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom out 78.972 54.720
+\i (00:08:16) trapsize 1402
+\i (00:08:17) zoom out 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom out 167.851 54.860
+\i (00:08:17) trapsize 1402
+\i (00:08:17) zoom out 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom out 167.851 54.860
+\i (00:08:17) trapsize 1402
+\i (00:08:18) setwindow text
+\i (00:08:18) close 
+\i (00:08:19) setwindow form.film_control
+\i (00:08:19) FORM film_control ok  
+\i (00:08:19) setwindow pcb
+\i (00:08:19) generaledit 
+\i (00:08:19) zoom in 1 
+\i (00:08:19) setwindow pcb
+\i (00:08:19) zoom in 62.710 -24.206
+\i (00:08:19) trapsize 701
+\i (00:08:21) roam start
+\i (00:08:21) roam x -48
+\i (00:08:21) roam y -32
+\i (00:08:21) roam x -16
+\i (00:08:21) roam x -16
+\i (00:08:21) roam y -16
+\i (00:08:21) roam x -144
+\i (00:08:21) roam y -32
+\i (00:08:21) roam x -144
+\i (00:08:21) roam y -32
+\i (00:08:21) roam x 16
+\i (00:08:21) roam y -32
+\i (00:08:21) roam end
+\i (00:08:24) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:08:25) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:08:26) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkT"
+\i (00:08:27) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkT"
+\i (00:08:36) color192 
+\i (00:08:36) generaledit 
+\i (00:08:39) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:08:41) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 7 0
+\i (00:08:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:08:41) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:42) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:08:42) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:08:46) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:08:47) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:08:47) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:08:49) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:08:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:08:56) color192 
+\i (00:08:56) generaledit 
+\i (00:08:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:08:59) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:09:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:09:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:09:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:09:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:09:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:09:09) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:09:09) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:09:10) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:09:11) zoom in 1 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) zoom in 83.037 7.336
+\i (00:09:11) trapsize 350
+\i (00:09:11) zoom in 1 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) zoom in 83.037 7.336
+\i (00:09:11) trapsize 175
+\i (00:09:12) drag_start grid 80.444 16.273
+\i (00:09:12) move 
+\t (00:09:12) last pick:  80.670 16.713
+\t (00:09:12) Pick new location for the element(s).
+\i (00:09:12) iangle -90 
+\t (00:09:12) last pick:  270.000 0.000
+\i (00:09:13) iangle -90 
+\t (00:09:13) last pick:  270.000 0.000
+\i (00:09:13) drag_stop grid 85.981 17.184
+\i (00:09:14) generaledit 
+\i (00:09:14) drag_start grid 81.075 18.026
+\i (00:09:14) move 
+\t (00:09:14) last pick:  80.696 18.390
+\t (00:09:14) Pick new location for the element(s).
+\i (00:09:16) drag_stop grid 86.051 16.799
+\i (00:09:16) generaledit 
+\i (00:09:17) drag_start grid 80.163 17.570
+\i (00:09:17) move 
+\t (00:09:17) last pick:  80.696 17.501
+\t (00:09:17) Pick new location for the element(s).
+\i (00:09:18) drag_stop grid 86.051 15.818
+\i (00:09:19) generaledit 
+\i (00:09:20) roam start
+\i (00:09:20) roam x -112
+\i (00:09:20) roam x -176
+\i (00:09:20) roam y 16
+\i (00:09:20) roam x -80
+\i (00:09:21) roam x -64
+\i (00:09:21) roam x -208
+\i (00:09:21) roam x -208
+\i (00:09:21) roam x -48
+\i (00:09:21) roam end
+\i (00:09:21) drag_start grid 47.080 13.330
+\i (00:09:21) move 
+\t (00:09:22) last pick:  47.874 12.562
+\t (00:09:22) Pick new location for the element(s).
+\i (00:09:23) drag_stop grid 57.279 12.980
+\i (00:09:23) generaledit 
+\i (00:09:23) drag_start grid 48.657 12.033
+\i (00:09:23) move 
+\t (00:09:23) last pick:  47.874 11.546
+\t (00:09:23) Pick new location for the element(s).
+\i (00:09:24) drag_stop grid 57.244 11.648
+\i (00:09:25) generaledit 
+\i (00:09:25) drag_start grid 48.833 23.424
+\i (00:09:25) move 
+\t (00:09:26) last pick:  47.974 22.246
+\t (00:09:26) Pick new location for the element(s).
+\i (00:09:27) drag_stop grid 57.524 23.213
+\i (00:09:27) generaledit 
+\i (00:09:27) drag_start grid 47.571 24.019
+\i (00:09:27) move 
+\t (00:09:27) last pick:  47.974 23.262
+\t (00:09:27) Pick new location for the element(s).
+\i (00:09:28) drag_stop grid 57.559 21.881
+\i (00:09:29) generaledit 
+\i (00:09:29) zoom out 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom out 36.321 18.237
+\i (00:09:29) trapsize 350
+\i (00:09:29) zoom out 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom out 36.321 18.236
+\i (00:09:29) trapsize 701
+\i (00:09:30) zoom in 1 
+\i (00:09:30) setwindow pcb
+\i (00:09:30) zoom in 5.198 18.552
+\i (00:09:30) trapsize 350
+\i (00:09:31) drag_start grid 5.618 13.435
+\i (00:09:31) move 
+\t (00:09:31) last pick:  4.699 12.827
+\t (00:09:31) Pick new location for the element(s).
+\i (00:09:32) drag_stop grid 13.749 13.926
+\i (00:09:32) generaledit 
+\i (00:09:33) drag_start grid 4.216 11.963
+\i (00:09:33) move 
+\t (00:09:33) last pick:  4.699 11.811
+\t (00:09:33) Pick new location for the element(s).
+\i (00:09:34) drag_stop grid 13.749 12.454
+\i (00:09:34) generaledit 
+\i (00:09:35) drag_start grid 4.287 22.968
+\i (00:09:35) move 
+\t (00:09:35) last pick:  5.334 22.606
+\t (00:09:35) Pick new location for the element(s).
+\i (00:09:36) drag_stop grid 14.801 24.089
+\i (00:09:36) generaledit 
+\i (00:09:37) drag_start grid 6.249 24.089
+\i (00:09:37) move 
+\t (00:09:37) last pick:  5.334 23.622
+\t (00:09:37) Pick new location for the element(s).
+\i (00:09:45) drag_stop grid 14.801 22.828
+\i (00:09:46) generaledit 
+\i (00:09:47) roam start
+\i (00:09:47) roam x 16
+\i (00:09:47) roam y -48
+\i (00:09:47) roam y -32
+\i (00:09:47) roam x 16
+\i (00:09:47) roam y -16
+\i (00:09:47) roam y -48
+\i (00:09:47) roam x 16
+\i (00:09:47) roam y -32
+\i (00:09:47) roam y -32
+\i (00:09:47) roam end
+\i (00:09:48) drag_start grid 7.898 34.182
+\i (00:09:48) move 
+\t (00:09:48) last pick:  7.235 35.326
+\t (00:09:48) Pick new location for the element(s).
+\i (00:09:50) drag_stop grid 2.851 36.075
+\i (00:09:51) generaledit 
+\i (00:09:52) drag_start grid 16.800 39.650
+\i (00:09:52) move 
+\t (00:09:52) last pick:  17.823 39.815
+\t (00:09:52) Pick new location for the element(s).
+\i (00:09:53) iangle -90 
+\t (00:09:53) last pick:  270.000 0.000
+\i (00:09:53) drag_stop grid 22.548 37.126
+\i (00:09:53) generaledit 
+\i (00:09:54) drag_start grid 19.323 39.580
+\i (00:09:54) move 
+\t (00:09:54) last pick:  19.500 39.789
+\t (00:09:54) Pick new location for the element(s).
+\i (00:09:55) iangle -90 
+\t (00:09:55) last pick:  270.000 0.000
+\i (00:09:56) drag_stop grid 22.477 36.355
+\i (00:09:56) generaledit 
+\i (00:09:57) drag_start grid 18.622 39.369
+\i (00:09:57) move 
+\t (00:09:57) last pick:  18.611 39.789
+\t (00:09:57) Pick new location for the element(s).
+\i (00:09:57) iangle -90 
+\t (00:09:57) last pick:  270.000 0.000
+\i (00:09:59) drag_stop grid 22.407 35.374
+\i (00:09:59) generaledit 
+\i (00:09:59) drag_start grid 15.468 41.542
+\i (00:09:59) move 
+\t (00:10:00) last pick:  15.854 40.774
+\t (00:10:00) Pick new location for the element(s).
+\i (00:10:00) drag_stop grid 18.132 44.837
+\i (00:10:01) generaledit 
+\i (00:10:01) drag_start grid 14.066 41.122
+\i (00:10:01) move 
+\t (00:10:01) last pick:  14.838 40.774
+\t (00:10:01) Pick new location for the element(s).
+\i (00:10:03) drag_stop grid 19.183 44.977
+\i (00:10:03) generaledit 
+\i (00:10:05) drag_start grid 18.692 44.276
+\i (00:10:05) move 
+\t (00:10:05) last pick:  19.200 45.000
+\t (00:10:05) Pick new location for the element(s).
+\i (00:10:07) drag_stop grid 19.323 44.837
+\i (00:10:07) generaledit 
+\i (00:10:11) color192 
+\i (00:10:11) generaledit 
+\i (00:10:14) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:10:17) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:10:20) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:10:27) drag_start grid 38.459 32.640
+\i (00:10:27) move 
+\t (00:10:27) last pick:  37.770 33.706
+\t (00:10:27) Pick new location for the element(s).
+\i (00:10:27) iangle -90 
+\t (00:10:27) last pick:  270.000 0.000
+\i (00:10:27) iangle -90 
+\t (00:10:27) last pick:  270.000 0.000
+\i (00:10:28) iangle -90 
+\t (00:10:28) last pick:  270.000 0.000
+\i (00:10:30) drag_stop grid 41.473 37.757
+\i (00:10:30) generaledit 
+\i (00:10:31) drag_start grid 39.861 34.112
+\i (00:10:31) move 
+\t (00:10:31) last pick:  39.169 34.068
+\t (00:10:31) Pick new location for the element(s).
+\i (00:10:31) iangle -90 
+\t (00:10:31) last pick:  270.000 0.000
+\i (00:10:32) drag_stop grid 42.104 37.337
+\i (00:10:33) generaledit 
+\i (00:10:33) drag_start grid 37.407 33.972
+\i (00:10:33) move 
+\t (00:10:33) last pick:  36.627 33.655
+\t (00:10:33) Pick new location for the element(s).
+\i (00:10:34) iangle -90 
+\t (00:10:34) last pick:  270.000 0.000
+\i (00:10:35) drag_stop grid 42.104 36.075
+\i (00:10:35) generaledit 
+\i (00:10:36) roam start
+\i (00:10:36) roam x -16
+\i (00:10:36) roam y -48
+\i (00:10:36) roam x -16
+\i (00:10:36) roam y -32
+\i (00:10:37) roam x -16
+\i (00:10:37) roam y -48
+\i (00:10:37) roam x -16
+\i (00:10:37) roam y -16
+\i (00:10:37) roam x -16
+\i (00:10:37) roam y -32
+\i (00:10:37) roam end
+\i (00:10:38) drag_start grid 33.482 47.571
+\i (00:10:38) move 
+\t (00:10:38) last pick:  33.477 47.041
+\t (00:10:38) Pick new location for the element(s).
+\i (00:10:39) iangle -90 
+\t (00:10:39) last pick:  270.000 0.000
+\i (00:10:42) drag_stop grid 20.725 50.515
+\i (00:10:42) generaledit 
+\i (00:10:43) drag_start grid 45.818 47.641
+\i (00:10:43) move 
+\t (00:10:43) last pick:  56.617 46.541
+\t (00:10:43) Pick new location for the element(s).
+\i (00:10:44) iangle -90 
+\t (00:10:44) last pick:  270.000 0.000
+\i (00:10:45) drag_stop grid 45.257 50.375
+\i (00:10:45) generaledit 
+\i (00:10:47) drag_start grid 27.243 54.089
+\i (00:10:47) move 
+\t (00:10:47) last pick:  26.277 54.685
+\t (00:10:47) Pick new location for the element(s).
+\i (00:10:47) iangle -90 
+\t (00:10:47) last pick:  270.000 0.000
+\i (00:10:48) iangle -90 
+\t (00:10:48) last pick:  270.000 0.000
+\i (00:10:48) iangle -90 
+\t (00:10:48) last pick:  270.000 0.000
+\i (00:10:49) drag_stop grid 31.519 56.473
+\i (00:10:49) generaledit 
+\i (00:10:49) drag_start grid 25.912 54.019
+\i (00:10:49) move 
+\t (00:10:50) last pick:  25.489 54.711
+\t (00:10:50) Pick new location for the element(s).
+\i (00:10:50) iangle -90 
+\t (00:10:50) last pick:  270.000 0.000
+\i (00:10:51) drag_stop grid 31.519 56.192
+\i (00:10:51) generaledit 
+\i (00:10:52) drag_start grid 25.351 54.300
+\i (00:10:52) move 
+\t (00:10:52) last pick:  24.600 54.711
+\t (00:10:52) Pick new location for the element(s).
+\i (00:10:52) iangle -90 
+\t (00:10:52) last pick:  270.000 0.000
+\i (00:10:53) drag_stop grid 31.519 55.001
+\i (00:10:53) generaledit 
+\i (00:10:54) drag_start grid 51.215 54.580
+\i (00:10:54) move 
+\t (00:10:54) last pick:  50.477 54.485
+\t (00:10:54) Pick new location for the element(s).
+\i (00:10:55) iangle -90 
+\t (00:10:55) last pick:  270.000 0.000
+\i (00:10:55) iangle -90 
+\t (00:10:55) last pick:  270.000 0.000
+\i (00:10:55) iangle -90 
+\t (00:10:55) last pick:  270.000 0.000
+\i (00:10:56) drag_stop grid 55.982 56.262
+\i (00:10:57) generaledit 
+\i (00:10:57) drag_start grid 50.515 54.160
+\i (00:10:57) move 
+\t (00:10:58) last pick:  49.689 54.511
+\t (00:10:58) Pick new location for the element(s).
+\i (00:10:58) iangle -90 
+\t (00:10:58) last pick:  270.000 0.000
+\i (00:10:58) iangle -90 
+\t (00:10:58) last pick:  270.000 0.000
+\i (00:10:59) iangle -90 
+\t (00:10:59) last pick:  270.000 0.000
+\i (00:10:59) drag_stop grid 56.052 55.351
+\i (00:11:00) generaledit 
+\i (00:11:00) drag_start grid 49.673 54.160
+\i (00:11:00) move 
+\t (00:11:01) last pick:  48.800 54.511
+\t (00:11:01) Pick new location for the element(s).
+\i (00:11:01) iangle -90 
+\t (00:11:01) last pick:  270.000 0.000
+\i (00:11:02) drag_stop grid 55.982 54.931
+\i (00:11:02) generaledit 
+\i (00:11:03) roam start
+\i (00:11:03) roam x 64
+\i (00:11:03) roam x 96
+\i (00:11:03) roam end
+\i (00:11:05) drag_start grid 68.669 35.164
+\i (00:11:05) move 
+\t (00:11:05) last pick:  71.117 34.241
+\t (00:11:05) Pick new location for the element(s).
+\i (00:11:05) iangle -90 
+\t (00:11:05) last pick:  270.000 0.000
+\i (00:11:07) drag_stop grid 60.117 33.482
+\i (00:11:07) generaledit 
+\i (00:11:09) drag_start grid 83.108 34.533
+\i (00:11:09) move 
+\t (00:11:09) last pick:  92.317 34.141
+\t (00:11:09) Pick new location for the element(s).
+\i (00:11:09) iangle -90 
+\t (00:11:09) last pick:  270.000 0.000
+\i (00:11:11) drag_stop grid 80.795 33.902
+\i (00:11:11) generaledit 
+\i (00:11:12) drag_start grid 92.150 33.412
+\i (00:11:12) move 
+\t (00:11:13) last pick:  92.317 32.871
+\t (00:11:13) Pick new location for the element(s).
+\i (00:11:15) drag_stop grid 90.328 34.463
+\i (00:11:15) generaledit 
+\i (00:11:16) drag_start grid 91.590 32.501
+\i (00:11:16) move 
+\t (00:11:16) last pick:  92.317 31.601
+\t (00:11:16) Pick new location for the element(s).
+\i (00:11:17) drag_stop grid 90.398 33.131
+\i (00:11:17) generaledit 
+\i (00:11:18) drag_start grid 91.590 30.538
+\i (00:11:18) move 
+\t (00:11:18) last pick:  92.317 30.331
+\t (00:11:18) Pick new location for the element(s).
+\i (00:11:19) drag_stop grid 90.328 31.870
+\i (00:11:19) generaledit 
+\i (00:11:20) drag_start grid 93.062 32.010
+\i (00:11:21) drag_stop 95.445 30.468
+\i (00:11:22) drag_start grid 93.762 37.057
+\i (00:11:22) move 
+\t (00:11:22) last pick:  94.353 37.099
+\t (00:11:22) Pick new location for the element(s).
+\i (00:11:25) drag_stop grid 98.739 37.547
+\i (00:11:25) generaledit 
+\i (00:11:26) drag_start grid 96.566 36.145
+\i (00:11:26) move 
+\t (00:11:26) last pick:  96.893 37.099
+\t (00:11:26) Pick new location for the element(s).
+\i (00:11:28) drag_stop grid 97.057 34.954
+\i (00:11:28) generaledit 
+\i (00:11:53) drag_start grid 71.753 33.131
+\i (00:11:53) move 
+\t (00:11:53) last pick:  71.117 32.971
+\t (00:11:53) Pick new location for the element(s).
+\i (00:11:54) drag_stop grid 70.421 33.412
+\i (00:11:54) generaledit 
+\i (00:11:55) drag_start grid 71.683 32.220
+\i (00:11:55) move 
+\t (00:11:55) last pick:  71.117 31.701
+\t (00:11:55) Pick new location for the element(s).
+\i (00:11:56) drag_stop grid 69.860 31.940
+\i (00:11:56) generaledit 
+\i (00:11:57) drag_start grid 70.912 30.888
+\i (00:11:57) move 
+\t (00:11:57) last pick:  71.117 30.431
+\t (00:11:57) Pick new location for the element(s).
+\i (00:11:58) drag_stop grid 69.931 30.678
+\i (00:11:58) generaledit 
+\i (00:12:24) drag_start grid 86.753 48.973
+\i (00:12:24) move 
+\t (00:12:24) last pick:  87.020 49.733
+\t (00:12:24) Pick new location for the element(s).
+\i (00:12:24) iangle -90 
+\t (00:12:24) last pick:  270.000 0.000
+\i (00:12:25) iangle -90 
+\t (00:12:25) last pick:  270.000 0.000
+\i (00:12:26) drag_stop grid 92.150 50.024
+\i (00:12:26) generaledit 
+\i (00:12:27) drag_start grid 87.104 50.375
+\i (00:12:27) move 
+\t (00:12:27) last pick:  87.046 50.521
+\t (00:12:27) Pick new location for the element(s).
+\i (00:12:28) drag_stop grid 92.290 49.674
+\i (00:12:29) generaledit 
+\i (00:12:29) drag_start grid 87.804 51.216
+\i (00:12:29) move 
+\t (00:12:29) last pick:  87.046 51.410
+\t (00:12:29) Pick new location for the element(s).
+\i (00:12:31) drag_stop grid 92.290 48.692
+\i (00:12:32) generaledit 
+\i (00:12:32) drag_start grid 81.075 49.253
+\i (00:12:32) move 
+\t (00:12:32) last pick:  80.670 49.733
+\t (00:12:32) Pick new location for the element(s).
+\i (00:12:33) iangle -90 
+\t (00:12:33) last pick:  270.000 0.000
+\i (00:12:33) iangle -90 
+\t (00:12:33) last pick:  270.000 0.000
+\i (00:12:34) drag_stop grid 85.772 50.094
+\i (00:12:34) generaledit 
+\i (00:12:35) drag_start grid 80.725 50.935
+\i (00:12:35) move 
+\t (00:12:35) last pick:  80.696 51.410
+\t (00:12:35) Pick new location for the element(s).
+\i (00:12:36) drag_stop grid 85.772 49.463
+\i (00:12:37) generaledit 
+\i (00:12:37) drag_start grid 80.865 50.445
+\i (00:12:37) move 
+\t (00:12:37) last pick:  80.696 50.521
+\t (00:12:37) Pick new location for the element(s).
+\i (00:12:39) drag_stop grid 85.702 48.482
+\i (00:12:39) generaledit 
+\i (00:13:43) zoom out 1 
+\i (00:13:43) setwindow pcb
+\i (00:13:43) zoom out 84.790 38.949
+\i (00:13:43) trapsize 701
+\i (00:13:44) zoom out 1 
+\i (00:13:44) setwindow pcb
+\i (00:13:44) zoom out 124.254 35.445
+\i (00:13:44) trapsize 1402
+\i (00:13:44) zoom in 1 
+\i (00:13:44) setwindow pcb
+\i (00:13:44) zoom in 48.972 24.860
+\i (00:13:44) trapsize 701
+\i (00:13:46) save 
+\i (00:13:47) fillin yes 
+   (00:13:47) Loading signal.cxt 
+\i (00:13:47) generaledit 
+\i (00:13:50) color192 
+\i (00:13:50) generaledit 
+\i (00:13:51) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:13:53) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:15:11) roam start
+\i (00:15:11) roam x -80
+\i (00:15:11) roam x -112
+\i (00:15:11) roam end
+\i (00:15:12) zoom in 1 
+\i (00:15:12) setwindow pcb
+\i (00:15:12) zoom in 90.747 -4.299
+\i (00:15:12) trapsize 350
+\i (00:15:12) zoom in 1 
+\i (00:15:12) setwindow pcb
+\i (00:15:12) zoom in 90.748 -4.298
+\i (00:15:12) trapsize 175
+\i (00:15:12) zoom out 1 
+\i (00:15:12) setwindow pcb
+\i (00:15:12) zoom out 91.379 -4.053
+\i (00:15:12) trapsize 350
+\i (00:15:15) trapsize 357
+\i (00:15:17) trapsize 291
+\i (00:15:18) zoom out 1 
+\i (00:15:18) setwindow pcb
+\i (00:15:18) zoom out 109.208 23.174
+\i (00:15:18) trapsize 581
+\i (00:15:19) roam start
+\i (00:15:19) roam y -64
+\i (00:15:19) roam y -32
+\i (00:15:19) roam y -32
+\i (00:15:19) roam x 16
+\i (00:15:19) roam y -48
+\i (00:15:19) roam y -32
+\i (00:15:20) roam y -16
+\i (00:15:20) roam y -16
+\i (00:15:20) roam y -16
+\i (00:15:20) roam y -16
+\i (00:15:21) roam y -16
+\i (00:15:21) roam x 16
+\i (00:15:21) roam y -16
+\i (00:15:21) roam x 16
+\i (00:15:21) roam y -16
+\i (00:15:21) roam x 16
+\i (00:15:21) roam y -48
+\i (00:15:21) roam x -16
+\i (00:15:21) roam y 16
+\i (00:15:22) roam y 16
+\i (00:15:22) roam end
+\i (00:18:08) pick grid 140.651 67.646
+\t (00:18:08) last pick:  140.700 67.600
+\i (00:18:08) save 
+\i (00:18:10) fillin yes 
+\i (00:18:10) generaledit 
+\i (00:18:10) exit 
+\t (00:18:11)     Journal end - Thu Aug 01 11:28:05 2019

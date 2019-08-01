@@ -1,0 +1,280 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jul-31-2019 at 12:31:21 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DA CONVERTOR';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP196_0.1UF':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS26@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins26@discrete.\cap np.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins26@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'D1N4148/TEMP_DO35_D1N4148/TEMP':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS484@DIODE.D1N4148/TEMP.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins484@diode.\d1n4148/temp.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins484@diode.\d1n4148/temp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'RD56EB_DO35_RD56EB':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS509@JDIODE.RD56EB.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins509@jdiode.\rd56eb.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins509@jdiode.\rd56eb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON4_JUMPER4_CON4':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1796@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1796@connector.\con4.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1796@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS2211@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins2211@connector.\con2.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins2211@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS100@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins100@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins100@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_RES400_22K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1156@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1156@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1156@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_RES400_22K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1172@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1172@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1172@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_RES400_22K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1188@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1188@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1188@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1204@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1204@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1204@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1220@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1220@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1220@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1236@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1236@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1236@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1252@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1252@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1252@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_RES400_22K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS2236@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins2236@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins2236@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS2252@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins2252@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins2252@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_RES400_6.8K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS116@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins116@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins116@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS132@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins132@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins132@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS148@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins148@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins148@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES400_5.1K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS411@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins411@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins411@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS427@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins427@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins427@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS443@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins443@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins443@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS459@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins459@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins459@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_RES400_22K':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS1140@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins1140@discrete.\r.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins1140@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LM741_DIP8_3_LM741':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS61@OPAMP.LM741.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins61@opamp.\lm741.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins61@opamp.\lm741.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LM741_DIP8_3_LM741':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS278@OPAMP.LM741.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins278@opamp.\lm741.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins278@opamp.\lm741.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 '74LS90_0_DIP14_3_74LS90_+5V':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS830@DA CONVERTOR.74LS90_0.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins830@\da convertor\.\74ls90_0.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins830@\da convertor\.\74ls90_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LM741_DIP8_3_LM741':;
+
+SECTION_NUMBER 1
+ '@DA CONVERTOR.SCHEMATIC1(SCH_1):INS2148@OPAMP.LM741.NORMAL(CHIPS)':
+ C_PATH='@\da convertor\.schematic1(sch_1):ins2148@opamp.\lm741.normal\(chips)',
+ P_PATH='@\da convertor\.schematic1(sch_1):page1_ins2148@opamp.\lm741.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
